@@ -50,5 +50,6 @@
                 "GfPayment": "Eskiell\\GfPayment\\GfPaymentFacade"
             }
         }
-    }
+    },
+	"minimum-stability": "dev"
 }
